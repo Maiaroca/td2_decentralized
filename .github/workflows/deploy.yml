@@ -4,6 +4,7 @@ on:
         branches:
             - main
 
+
 jobs:
     deplpoy:
         runs-on: ubuntu-latest
